@@ -7042,7 +7042,7 @@ msgstr "Без названия"
 
 #: src/slic3r/GUI/MainFrame.cpp:710
 msgid "based on Slic3r"
-msgstr "созданная на остове Slic3r"
+msgstr "создан на базе Slic3r"
 
 #: src/slic3r/GUI/MainFrame.cpp:1150
 msgid "Prusa 3D &Drivers"
